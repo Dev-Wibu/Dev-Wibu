@@ -1,4 +1,4 @@
-## Good View For Newbie Dev
+## Good Start For Newbie Dev
 - ⚡ Fun fact: Ada Lovelace or Augusta Ada King, the First Coder
 <!--
 **Dev-Wibu/Dev-Wibu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
