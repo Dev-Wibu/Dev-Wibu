@@ -1,5 +1,5 @@
 ## Good Start For Newbie Dev
-- ⚡ Fun fact: Ada Lovelace or Augusta Ada King, the First Coder
+- ⚡ Fun fact: Ada Lovelace or Augusta Ada King, the First Programmer, she was a compulsive gambler.
 <!--
 **Dev-Wibu/Dev-Wibu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
