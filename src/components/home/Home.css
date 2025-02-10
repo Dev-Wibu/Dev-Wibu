@@ -1,0 +1,27 @@
+/* src/components/Home/Home.css */
+.home-container {
+  text-align: center;
+  padding: 50px;
+}
+
+.home-title {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.home-text {
+  font-size: 18px;
+  color: #555;
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+.get-started-button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
