@@ -1,14 +1,14 @@
-## 👨‍💻 About Me:
- - <img src="https://github.com/user-attachments/assets/bd10bb76-bce9-4d7b-aa76-807958dbf39a" alt="FnAS60AWQAE1zsO" width="25"/> A weaboo developer
-- ⚡ Fun fact: Ada Lovelace, the First Programmer, was also a compulsive gambler.
-
+## <img src="https://github.com/user-attachments/assets/8156bd06-e235-4330-b814-8363e3a83a1d" alt="FnAS60AWQAE1zsO" width="45"/> About Me:
+- <img src="https://github.com/user-attachments/assets/bd10bb76-bce9-4d7b-aa76-807958dbf39a" alt="FnAS60AWQAE1zsO" width="30"/> A weaboo developer
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c0342543-24f1-4fbc-8d88-e27efb3682d3" alt="FnAS60AWQAE1zsO" width="2500"/>
 </div>
+- <img src="https://github.com/user-attachments/assets/5981c085-34bf-4441-827d-a14e45a283ff" alt="FnAS60AWQAE1zsO" width="30"/> Fun fact: Ada Lovelace, the First Programmer, was also a compulsive gambler.
+
 
 ## 🌐 Socials:
 <div align="center">
-  
+ 
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ngdatuananh) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) 
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yourprofile) 
@@ -18,6 +18,7 @@
   [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://hackerrank.com/yourprofile) 
   [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/yourprofile)
 </div>
+
 
 ## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -119,6 +120,7 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unreal_engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
+
 
 ## 📊 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Wibu&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
