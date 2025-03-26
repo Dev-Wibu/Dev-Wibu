@@ -1,11 +1,10 @@
 ## 👨‍💻 About Me:
  - <img src="https://github.com/user-attachments/assets/bd10bb76-bce9-4d7b-aa76-807958dbf39a" alt="FnAS60AWQAE1zsO" width="25"/> A weaboo developer
+- ⚡ Fun fact: Ada Lovelace, the First Programmer, was also a compulsive gambler.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c0342543-24f1-4fbc-8d88-e27efb3682d3" alt="FnAS60AWQAE1zsO" width="2500"/>
 </div>
-
-- ⚡ Fun fact: Ada Lovelace, the First Programmer, was also a compulsive gambler.
 
 ## 🌐 Socials:
 <div align="center">
