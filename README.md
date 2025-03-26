@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c0342543-24f1-4fbc-8d88-e27efb3682d3" alt="FnAS60AWQAE1zsO" width="2500"/>
 </div>
-- <img src="https://github.com/user-attachments/assets/5981c085-34bf-4441-827d-a14e45a283ff" alt="FnAS60AWQAE1zsO" width="30"/> Fun fact: Ada Lovelace, the First Programmer, was also a compulsive gambler.
+- <img src="https://github.com/user-attachments/assets/5981c085-34bf-4441-827d-a14e45a283ff" alt="FnAS60AWQAE1zsO" width="30"/> Fun fact: Ada Lovelace, aka Augusta Ada King, the first programmer, was a gambling addict who blew a fortune on horses.
 
 
 ## 🌐 Socials:
