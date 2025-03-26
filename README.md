@@ -1,4 +1,4 @@
-##  About Me:
+## 👨‍💻 About Me:
 A weaboo developer
 
 <div align="center">
@@ -11,6 +11,7 @@ A weaboo developer
 
 ## 🌐 Socials:
 <div align="center">
+  
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ngdatuananh) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) 
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yourprofile) 
