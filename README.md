@@ -2,13 +2,15 @@
   <img src="https://github.com/user-attachments/assets/c0342543-24f1-4fbc-8d88-e27efb3682d3" alt="Banner" width="100%" style="max-width: 1200px;"/>
 </div>
 
-## <img src="https://github.com/user-attachments/assets/8156bd06-e235-4330-b814-8363e3a83a1d" alt="FnAS60AWQAE1zsO" width="45"/> About Me:
 
-- <img src="https://github.com/user-attachments/assets/bd10bb76-bce9-4d7b-aa76-807958dbf39a" alt="Developer" width="20" style="margin-right: 5px;"/> A weaboo developer
+### <img src="https://github.com/user-attachments/assets/a5633c1f-bf34-4341-b91b-f2ea48775bab" alt="FnAS60AWQAE1zsO" width="60"/> About Me:
+- A weaboo developer  <img src="https://github.com/user-attachments/assets/3f779bb3-3cda-4376-b5a6-e056f564be41" alt="Developer" width="40" style="margin-right: 5px;"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌐 Connect with Me:
+
+### <img src="https://github.com/user-attachments/assets/489cfbff-e5e3-4233-ae92-4ceefb510cb6" alt="FnAS60AWQAE1zsO" width="60"/> Connect with Me:
 <div align="center">
-  
+
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ngdatuananh)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourprofile)
@@ -22,10 +24,9 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 </div>
 
-## 🛠 Technologies & Tools
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I have experience with a wide range of technologies and tools in software development, including but not limited to:
-
+### <img src="https://github.com/user-attachments/assets/d51034e4-900c-4c4a-8722-b90fd88ae4c5" alt="FnAS60AWQAE1zsO" width="60"/> Technologies & Tools:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -205,17 +206,19 @@ I have experience with a wide range of technologies and tools in software develo
 ![semantic-release](https://img.shields.io/badge/semantic_release-%23000000.svg?style=for-the-badge&logo=semantic-release&logoColor=white)
 ![gitmoji](https://img.shields.io/badge/gitmoji-%23FFDD67.svg?style=for-the-badge&logo=gitmoji&logoColor=black)
 
-*(Note: This is a selection of 200+ developer-related technologies and tools I’ve worked with or explored.)*
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats:
+## <img src="https://github.com/user-attachments/assets/bd10bb76-bce9-4d7b-aa76-807958dbf39a" alt="FnAS60AWQAE1zsO" width="45"/> GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Wibu&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Wibu&show_icons=true&theme=radical&hide_border=false)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dev-Wibu&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Wibu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10)
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Wibu&theme=radical&hide_border=false&bg_color=1F2227&line=FF4500&point=FFFFFF&area=true&area_color=FF6347)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Wibu&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Wibu&show_icons=true&theme=radical&hide_border=false&bg_color=141321&line=FE428E&point=A9FEF7&area=true&area_color=A9FEF7)
 
-## <img src="https://github.com/user-attachments/assets/5981c085-34bf-4441-827d-a14e45a283ff" alt="Fun fact" width="60"/> Did You Know?
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### <img src="https://github.com/user-attachments/assets/5981c085-34bf-4441-827d-a14e45a283ff" alt="Fun fact" width="60"/> Did You Know?
 <div style="background-color: #2E2E2E; padding: 20px; border-radius: 10px; border: 2px solid #FF4500; margin: 20px 0;">
   <p style="font-size: 18px; color: #FFFFFF; text-align: center;">
     <strong>Ada Lovelace</strong>, aka Augusta Ada King, the first programmer, was a gambling addict who blew a fortune on horses.
