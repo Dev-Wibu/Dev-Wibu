@@ -2,13 +2,18 @@
   <img src="https://github.com/user-attachments/assets/c0342543-24f1-4fbc-8d88-e27efb3682d3" alt="Banner" width="100%" style="max-width: 1200px;"/>
 </div>
 
-
-### <img src="https://github.com/user-attachments/assets/a5633c1f-bf34-4341-b91b-f2ea48775bab" alt="FnAS60AWQAE1zsO" width="60"/> About Me:
-- A weaboo developer  <img src="https://github.com/user-attachments/assets/3f779bb3-3cda-4376-b5a6-e056f564be41" alt="Developer" width="40" style="margin-right: 5px;"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-### <img src="https://github.com/user-attachments/assets/489cfbff-e5e3-4233-ae92-4ceefb510cb6" alt="FnAS60AWQAE1zsO" width="60"/> Connect with Me:
+### <img src="https://github.com/user-attachments/assets/a5633c1f-bf34-4341-b91b-f2ea48775bab" alt="FnAS60AWQAE1zsO" width="45"/> About Me:
+<div>
+  <h4><em>A weaboo developer  <img src="https://github.com/user-attachments/assets/3f779bb3-3cda-4376-b5a6-e056f564be41" alt="Developer" width="30" style="margin-right: 5px;"/></em></h4>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+### <img src="https://github.com/user-attachments/assets/489cfbff-e5e3-4233-ae92-4ceefb510cb6" alt="FnAS60AWQAE1zsO" width="45"/> Connect with Me at:
 <div align="center">
 
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ngdatuananh)
@@ -26,7 +31,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### <img src="https://github.com/user-attachments/assets/d51034e4-900c-4c4a-8722-b90fd88ae4c5" alt="FnAS60AWQAE1zsO" width="60"/> Technologies & Tools:
+### <img src="https://github.com/user-attachments/assets/d51034e4-900c-4c4a-8722-b90fd88ae4c5" alt="FnAS60AWQAE1zsO" width="45"/> Technologies & Tools:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -209,18 +214,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### <img src="https://github.com/user-attachments/assets/bd10bb76-bce9-4d7b-aa76-807958dbf39a" alt="FnAS60AWQAE1zsO" width="45"/> GitHub Stats:
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Wibu&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Wibu&show_icons=true&theme=radical&hide_border=false)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dev-Wibu&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Wibu&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Wibu&show_icons=true&theme=radical&hide_border=false&bg_color=141321&line=FE428E&point=A9FEF7&area=true&area_color=A9FEF7)
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### <img src="https://github.com/user-attachments/assets/5981c085-34bf-4441-827d-a14e45a283ff" alt="Fun fact" width="60"/> Did You Know?
-  
-- <p style="font-size: 18px; color: #FFFFFF; text-align: center;">
-   <strong>Ada Lovelace</strong>, aka Augusta Ada King, the first programmer, was a gambling addict who blew a fortune on horses.
-  </p>
-
+### <img src="https://github.com/user-attachments/assets/5981c085-34bf-4441-827d-a14e45a283ff" alt="Fun fact" width="45"/> Did You Know?
+<div>
+  <h4><em><strong>Ada Lovelace</strong>, aka Augusta Ada King, the first programmer, was a gambling addict who blew a fortune on horses.</em></h4>
+</div>
