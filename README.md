@@ -208,7 +208,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://github.com/user-attachments/assets/bd10bb76-bce9-4d7b-aa76-807958dbf39a" alt="FnAS60AWQAE1zsO" width="45"/> GitHub Stats:
+### <img src="https://github.com/user-attachments/assets/bd10bb76-bce9-4d7b-aa76-807958dbf39a" alt="FnAS60AWQAE1zsO" width="45"/> GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Wibu&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Wibu&show_icons=true&theme=radical&hide_border=false)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dev-Wibu&theme=radical)
@@ -219,8 +219,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### <img src="https://github.com/user-attachments/assets/5981c085-34bf-4441-827d-a14e45a283ff" alt="Fun fact" width="60"/> Did You Know?
-<div style="background-color: #2E2E2E; padding: 20px; border-radius: 10px; border: 2px solid #FF4500; margin: 20px 0;">
-  <p style="font-size: 18px; color: #FFFFFF; text-align: center;">
-    <strong>Ada Lovelace</strong>, aka Augusta Ada King, the first programmer, was a gambling addict who blew a fortune on horses.
+  
+- <p style="font-size: 18px; color: #FFFFFF; text-align: center;">
+   <strong>Ada Lovelace</strong>, aka Augusta Ada King, the first programmer, was a gambling addict who blew a fortune on horses.
   </p>
-</div>
+
