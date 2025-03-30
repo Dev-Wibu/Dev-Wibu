@@ -1,17 +1,27 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c0342543-24f1-4fbc-8d88-e27efb3682d3" alt="Banner" width="100%" style="max-width: 1200px;"/>
+  <img src="https://github.com/user-attachments/assets/c0342543-24f1-4fbc-8d88-e27efb3682d3" alt="Developer Banner" width="100%"/>
+
+  # <img src="https://github.com/user-attachments/assets/87fb6d5c-44f3-4a04-986c-5e4c7c6b33ee" alt="Developer Banner" width="5%" /> 🌟Welcome to My Digital World🌟 <img src="https://github.com/user-attachments/assets/87fb6d5c-44f3-4a04-986c-5e4c7c6b33ee" alt="Developer Banner" width="5%" />
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=Dev-Wibu&style=flat-square&color=blueviolet)](https://github.com/Dev-Wibu)
+  [![GitHub followers](https://img.shields.io/github/followers/Dev-Wibu?style=social)](https://github.com/Dev-Wibu)
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C33F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Game+Enthusiast;Anime+Lover;Coding+Wizard;Always+Learning" alt="Typing SVG" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### <img src="https://github.com/user-attachments/assets/a5633c1f-bf34-4341-b91b-f2ea48775bab" alt="FnAS60AWQAE1zsO" width="45"/> About Me:
-<div>
-  <h4><em>A developer who loves games and anime, writes code during the day, watches anime all night, and often sleeps late. <img src="https://github.com/user-attachments/assets/3f779bb3-3cda-4376-b5a6-e056f564be41" alt="Developer" width="30" style="margin-right: 5px;"/></em></h4>
-</div>
+###  🧙‍♂️ About Me
+
+> *A developer who loves games and anime, writes code during the day, watches anime all night, and often sleeps late.* 🎮 📺 💻
+
+I'm passionate about creating elegant solutions to complex problems through clean, efficient code. My journey in tech has led me to explore various programming languages and frameworks, always seeking to expand my knowledge and skills.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### <img src="https://github.com/user-attachments/assets/489cfbff-e5e3-4233-ae92-4ceefb510cb6" alt="FnAS60AWQAE1zsO" width="45"/> Connect with Me at:
+###  <img src="https://github.com/user-attachments/assets/489cfbff-e5e3-4233-ae92-4ceefb510cb6" alt="FnAS60AWQAE1zsO" width="45"/> Connect with Me at:
 <div align="center">
   
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ngdatuananh)
@@ -88,6 +98,7 @@
 ![Trello](https://img.shields.io/badge/trello-%230052CC.svg?style=for-the-badge&logo=trello&logoColor=white) 
 ![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### <img src="https://github.com/user-attachments/assets/bd10bb76-bce9-4d7b-aa76-807958dbf39a" alt="FnAS60AWQAE1zsO" width="45"/> GitHub Stats:
@@ -96,9 +107,29 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Wibu&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10" alt="Top Langs" width="30%"/>  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Wibu&show_icons=true&theme=radical&hide_border=false&bg_color=141321&line=FE428E&point=A9FEF7&area=true&area_color=A9FEF7" alt="Contribution Graph" width="69%"/>
 
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### <img src="https://github.com/user-attachments/assets/5981c085-34bf-4441-827d-a14e45a283ff" alt="Fun fact" width="45"/> Did You Know?
+###  📌 Recent Projects
+
 <div>
-  <h4><em><strong>Ada Lovelace</strong>, aka Augusta Ada King, the first programmer, was a gambling addict who blew a fortune on horses.</em></h4>
+  <a href="https://github.com/Dev-Wibu/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Wibu&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 1" width="49%"/>
+  </a>
+  <a href="https://github.com/Dev-Wibu/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Wibu&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 2" width="49%"/>
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div>
+  <h3>💭 Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<div>
+  
+### <img src="https://github.com/user-attachments/assets/5981c085-34bf-4441-827d-a14e45a283ff" alt="Fun fact" width="45"/> Did You Know?
+  > *<h4><em><strong>Ada Lovelace</strong>, aka Augusta Ada King, the first programmer, was a gambling addict who blew a fortune on horses.</em></h4>*
 </div>
