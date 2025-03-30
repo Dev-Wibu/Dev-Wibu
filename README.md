@@ -92,7 +92,7 @@
 
 ### <img src="https://github.com/user-attachments/assets/bd10bb76-bce9-4d7b-aa76-807958dbf39a" alt="FnAS60AWQAE1zsO" width="45"/> GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=Dev-Wibu&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="47%"/>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Wibu&show_icons=true&theme=radical&hide_border=false" alt="GitHub Streak" width="50%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Dev-Wibu&theme=radical" alt="GitHub Trophies" width="100%" style="max-width: 1200px;"/>
+<img src="https://github-trophies.vercel.app/?username=Dev-Wibu&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" width="99%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Wibu&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10" alt="Top Langs" width="30%"/>  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Wibu&show_icons=true&theme=radical&hide_border=false&bg_color=141321&line=FE428E&point=A9FEF7&area=true&area_color=A9FEF7" alt="Contribution Graph" width="69%"/>
 
 
