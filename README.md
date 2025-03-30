@@ -1,23 +1,18 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c0342543-24f1-4fbc-8d88-e27efb3682d3" alt="Developer Banner" width="100%"/>
 
-  # <img src="https://github.com/user-attachments/assets/87fb6d5c-44f3-4a04-986c-5e4c7c6b33ee" alt="Developer Banner" width="5%" /> 🌟Welcome to My Digital World🌟 <img src="https://github.com/user-attachments/assets/87fb6d5c-44f3-4a04-986c-5e4c7c6b33ee" alt="Developer Banner" width="5%" />
+  # <img src="https://github.com/user-attachments/assets/87fb6d5c-44f3-4a04-986c-5e4c7c6b33ee" alt="Developer Banner" width="5%" /> 🌟Welcome to My Profile🌟 <img src="https://github.com/user-attachments/assets/87fb6d5c-44f3-4a04-986c-5e4c7c6b33ee" alt="Developer Banner" width="5%" />
   
   [![Profile Views](https://komarev.com/ghpvc/?username=Dev-Wibu&style=flat-square&color=blueviolet)](https://github.com/Dev-Wibu)
   [![GitHub followers](https://img.shields.io/github/followers/Dev-Wibu?style=social)](https://github.com/Dev-Wibu)
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C33F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Game+Enthusiast;Anime+Lover;Coding+Wizard;Always+Learning" alt="Typing SVG" />
-</div>
+### <img src="https://github.com/user-attachments/assets/a5633c1f-bf34-4341-b91b-f2ea48775bab" alt="FnAS60AWQAE1zsO" width="45"/> About Me:
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=7000&color=6C33F7&center=true&vCenter=true&width=1000&lines=A+wibu+developer,+coding+during+day,+watches+anime+at+night,+and+often+sleeps+late." alt="Typing SVG" width="95%" /> <img src="https://github.com/user-attachments/assets/3f779bb3-3cda-4376-b5a6-e056f564be41" alt="Developer" width="4%"/>
 
-###  🧙‍♂️ About Me
 
-> *A developer who loves games and anime, writes code during the day, watches anime all night, and often sleeps late.* 🎮 📺 💻
 
-I'm passionate about creating elegant solutions to complex problems through clean, efficient code. My journey in tech has led me to explore various programming languages and frameworks, always seeking to expand my knowledge and skills.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -110,21 +105,21 @@ I'm passionate about creating elegant solutions to complex problems through clea
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-###  📌 Recent Projects
+###  <img src="https://github.com/user-attachments/assets/3bb94841-f47a-4fef-8f9a-2b4682e5966f" alt="FnAS60AWQAE1zsO" width="45"/> Recent Projects: 
 
 <div>
-  <a href="https://github.com/Dev-Wibu/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Wibu&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 1" width="49%"/>
+  <a href="https://github.com/Dev-Wibu/Child-Vaccine-Schedule-Tracking-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Wibu&repo=Child-Vaccine-Schedule-Tracking-System&show_icons=true&theme=radical&hide_border=false" alt="Project 1" width="40%"/>
   </a>
-  <a href="https://github.com/Dev-Wibu/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Wibu&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 2" width="49%"/>
+  <a href="https://github.com/Dev-Wibu/SmartWalletProject">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Wibu&repo=SmartWalletProject&show_icons=true&theme=radical&hide_border=false" alt="Project 2" width="40%"/>
   </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div>
-  <h3>💭 Random Dev Quote</h3>
+  <h3> <img src="https://github.com/user-attachments/assets/cb4ad149-503d-49cd-a9a0-85f099364be5" alt="FnAS60AWQAE1zsO" width="45"/> Random Dev Quote: </h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
