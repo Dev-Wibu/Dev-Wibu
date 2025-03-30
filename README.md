@@ -7,16 +7,13 @@
   [![GitHub followers](https://img.shields.io/github/followers/Dev-Wibu?style=social)](https://github.com/Dev-Wibu)
 </div>
 
-### <img src="https://github.com/user-attachments/assets/a5633c1f-bf34-4341-b91b-f2ea48775bab" alt="FnAS60AWQAE1zsO" width="45"/> About Me:
+### <img src="https://github.com/user-attachments/assets/a5633c1f-bf34-4341-b91b-f2ea48775bab" alt="FnAS60AWQAE1zsO" width="45"/> About Me🙋‍♂️
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=7000&color=6C33F7&center=true&vCenter=true&width=1000&lines=A+wibu+developer,+coding+during+day,+watches+anime+at+night,+and+often+sleeps+late." alt="Typing SVG" width="95%" /> <img src="https://github.com/user-attachments/assets/3f779bb3-3cda-4376-b5a6-e056f564be41" alt="Developer" width="4%"/>
-
-
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=7000&color=6C33F7¢er=true&vCenter=true&width=1000&lines=A+wibu+developer,+coding+during+day,+watches+anime+at+night,+and+often+sleeps+late." alt="Typing SVG" width="95%" /> <img src="https://github.com/user-attachments/assets/3f779bb3-3cda-4376-b5a6-e056f564be41" alt="Developer" width="4%"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-###  <img src="https://github.com/user-attachments/assets/489cfbff-e5e3-4233-ae92-4ceefb510cb6" alt="FnAS60AWQAE1zsO" width="45"/> Connect with Me at:
+### <img src="https://github.com/user-attachments/assets/489cfbff-e5e3-4233-ae92-4ceefb510cb6" alt="FnAS60AWQAE1zsO" width="45"/> Connect with Me🌐
 <div align="center">
   
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ngdatuananh)
@@ -32,7 +29,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### <img src="https://github.com/user-attachments/assets/d51034e4-900c-4c4a-8722-b90fd88ae4c5" alt="FnAS60AWQAE1zsO" width="45"/> Technologies & Tools:
+### <img src="https://github.com/user-attachments/assets/d51034e4-900c-4c4a-8722-b90fd88ae4c5" alt="FnAS60AWQAE1zsO" width="45"/> Technologies & Tools🛠️
 - #### Programming Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -96,16 +93,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### <img src="https://github.com/user-attachments/assets/bd10bb76-bce9-4d7b-aa76-807958dbf39a" alt="FnAS60AWQAE1zsO" width="45"/> GitHub Stats:
+### <img src="https://github.com/user-attachments/assets/bd10bb76-bce9-4d7b-aa76-807958dbf39a" alt="FnAS60AWQAE1zsO" width="45"/> GitHub Stats📊
 <img src="https://github-readme-stats.vercel.app/api?username=Dev-Wibu&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="47%"/>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Wibu&show_icons=true&theme=radical&hide_border=false" alt="GitHub Streak" width="50%"/>
 <img src="https://github-profile-trophy.vercel.app/?username=Dev-Wibu&theme=radical" alt="GitHub Trophies" width="100%" style="max-width: 1200px;"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Wibu&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10" alt="Top Langs" width="30%"/>  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Wibu&show_icons=true&theme=radical&hide_border=false&bg_color=141321&line=FE428E&point=A9FEF7&area=true&area_color=A9FEF7" alt="Contribution Graph" width="69%"/>
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-###  <img src="https://github.com/user-attachments/assets/3bb94841-f47a-4fef-8f9a-2b4682e5966f" alt="FnAS60AWQAE1zsO" width="45"/> Recent Projects: 
+
+### <img src="https://github.com/user-attachments/assets/3bb94841-f47a-4fef-8f9a-2b4682e5966f" alt="FnAS60AWQAE1zsO" width="45"/> Recent Projects 📌
 
 <div>
   <a href="https://github.com/Dev-Wibu/Child-Vaccine-Schedule-Tracking-System">
@@ -119,12 +115,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div>
-  <h3> <img src="https://github.com/user-attachments/assets/cb4ad149-503d-49cd-a9a0-85f099364be5" alt="FnAS60AWQAE1zsO" width="45"/> Random Dev Quote: </h3>
+  <h3> <img src="https://github.com/user-attachments/assets/cb4ad149-503d-49cd-a9a0-85f099364be5" alt="FnAS60AWQAE1zsO" width="45"/> Random Dev Quote 💬 </h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 <div>
   
-### <img src="https://github.com/user-attachments/assets/5981c085-34bf-4441-827d-a14e45a283ff" alt="Fun fact" width="45"/> Did You Know?
+### <img src="https://github.com/user-attachments/assets/5981c085-34bf-4441-827d-a14e45a283ff" alt="Fun fact" width="45"/> Did You Know?💡
   > *<h4><em><strong>Ada Lovelace</strong>, aka Augusta Ada King, the first programmer, was a gambling addict who blew a fortune on horses.</em></h4>*
 </div>
