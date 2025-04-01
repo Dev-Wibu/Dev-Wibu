@@ -62,7 +62,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary><b>Libraries</b></summary>
   <br>
   <p align="center">
@@ -75,7 +75,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary><b>Build Tools & Bundlers</b></summary>
   <br>
   <p align="center">
@@ -88,7 +88,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary><b>Code Quality & Formatting Tools</b></summary>
   <br>
   <p align="center">
@@ -98,7 +98,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary><b>API Development Tools</b></summary>
   <br>
   <p align="center">
@@ -107,7 +107,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary><b>Databases & Management Tools</b></summary>
   <br>
   <p align="center">
@@ -116,7 +116,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary><b>IDEs & Editors</b></summary>
   <br>
   <p align="center">
@@ -126,7 +126,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary><b>Version Control Systems</b></summary>
   <br>
   <p align="center">
@@ -136,7 +136,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary><b>Project Management Tools</b></summary>
   <br>
   <p align="center">
