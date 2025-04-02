@@ -151,7 +151,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-Wibu&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false&bg_color=0D1117&title_color=FE428E&text_color=A9FEF7&icon_color=FE428E" alt="GitHub Stats" width="47%"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Wibu&theme=radical&hide_border=false&background=0D1117&ring=FE428E&fire=FE428E&currStreakLabel=FE428E" alt="GitHub Streak" width="50%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Dev-Wibu&theme=radical&hide_border=false&background=0D1117&ring=FE428E&fire=FE428E&currStreakLabel=FE428E" alt="GitHub Streak" width="50%"/>
 </div>
 
 <br>
