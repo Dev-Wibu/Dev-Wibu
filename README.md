@@ -11,7 +11,7 @@
 ### <img src="https://github.com/user-attachments/assets/a5633c1f-bf34-4341-b91b-f2ea48775bab" alt="FnAS60AWQAE1zsO" width="45"/> About Me 👨‍💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=7000&color=6C33F7¢er=true&vCenter=true&width=1000&lines=A+wibu+developer,+coding+during+day,+watches+anime+at+night,+and+often+sleeps+late." alt="Typing SVG" width="95%" /> <img src="https://github.com/user-attachments/assets/3f779bb3-3cda-4376-b5a6-e056f564be41" alt="Developer" width="4%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=7000&color=C261FF¢er=true&vCenter=true&width=1000&lines=A+wibu+developer,+coding+during+day,+watches+anime+at+night,+and+often+sleeps+late." alt="Typing SVG" width="95%" /> <img src="https://github.com/user-attachments/assets/3f779bb3-3cda-4376-b5a6-e056f564be41" alt="Developer" width="4%"/>
 </div>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
