@@ -20,15 +20,13 @@
 
 <div align="center">
 
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=0D1117)](https://facebook.com/ngdatuananh)
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=0D1117)](https://www.facebook.com/profile.php?id=61555539249514)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/yourprofile)
   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117)](https://x.com/yourprofile)
-  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=0D1117)](https://stackoverflow.com/users/yourprofile)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Dev-Wibu)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/yourprofile)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117)](https://youtube.com/yourchannel)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](https://discord.gg/yourserver)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:your.email@example.com)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/dev-wibu/)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117)](https://www.youtube.com/@TranNhatTanK18HCM)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:tantnse184055@fpt.edu.vn)
 </div>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -40,7 +38,6 @@
   <br>
   <p align="center">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117" alt="Java"> 
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=0D1117" alt="C#"> 
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117" alt="C++"> 
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=0D1117" alt="JavaScript"> 
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117" alt="HTML5"> 
@@ -48,34 +45,29 @@
   </p>
 </details>
 
-<details open>
+<details>
   <summary><b>Frameworks</b></summary>
   <br>
   <p align="center">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=0D1117" alt="React"> 
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&labelColor=0D1117" alt="Spring"> 
-    <img src="https://img.shields.io/badge/hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=0D1117" alt="Hibernate"> 
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0D1117" alt="Bootstrap"> 
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117" alt="TailwindCSS"> 
-    <img src="https://img.shields.io/badge/material_ui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white&labelColor=0D1117" alt="Material-UI"> 
-    <img src="https://img.shields.io/badge/ant_design-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white&labelColor=0D1117" alt="Ant Design">
   </p>
 </details>
 
-<details open>
+<details>
   <summary><b>Libraries</b></summary>
   <br>
   <p align="center">
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&labelColor=0D1117" alt="Redux"> 
     <img src="https://img.shields.io/badge/react_query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white&labelColor=0D1117" alt="React Query"> 
     <img src="https://img.shields.io/badge/axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white&labelColor=0D1117" alt="Axios"> 
-    <img src="https://img.shields.io/badge/styled_components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white&labelColor=0D1117" alt="Styled-Components"> 
-    <img src="https://img.shields.io/badge/emotion-%23C76494.svg?style=for-the-badge&logo=emotion&logoColor=white&labelColor=0D1117" alt="Emotion"> 
     <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white&labelColor=0D1117" alt="Chart.js">
   </p>
 </details>
 
-<details open>
+<details>
   <summary><b>Build Tools & Bundlers</b></summary>
   <br>
   <p align="center">
@@ -88,7 +80,7 @@
   </p>
 </details>
 
-<details open>
+<details>
   <summary><b>Code Quality & Formatting Tools</b></summary>
   <br>
   <p align="center">
@@ -98,7 +90,7 @@
   </p>
 </details>
 
-<details open>
+<details>
   <summary><b>API Development Tools</b></summary>
   <br>
   <p align="center">
@@ -107,36 +99,33 @@
   </p>
 </details>
 
-<details open>
+<details>
   <summary><b>Databases & Management Tools</b></summary>
   <br>
   <p align="center">
-    <img src="https://img.shields.io/badge/microsoft_sql_server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=0D1117" alt="Microsoft SQL Server"> 
     <img src="https://img.shields.io/badge/ssms-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=0D1117" alt="SQL Server Management Studio">
   </p>
 </details>
 
-<details open>
+<details>
   <summary><b>IDEs & Editors</b></summary>
   <br>
   <p align="center">
-    <img src="https://img.shields.io/badge/visual_studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=0D1117" alt="Visual Studio"> 
     <img src="https://img.shields.io/badge/intellij_idea-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=0D1117" alt="IntelliJ IDEA"> 
     <img src="https://img.shields.io/badge/vs_code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117" alt="VS Code">
   </p>
 </details>
 
-<details open>
+<details>
   <summary><b>Version Control Systems</b></summary>
   <br>
   <p align="center">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" alt="Git"> 
     <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"> 
-    <img src="https://img.shields.io/badge/gitlab-%23330F63.svg?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0D1117" alt="GitLab">
   </p>
 </details>
 
-<details open>
+<details>
   <summary><b>Project Management Tools</b></summary>
   <br>
   <p align="center">
